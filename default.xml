@@ -11,8 +11,8 @@
   <project path="build" name="MiCode/patchrom_build">
     <copyfile src="makefile" dest="Makefile" />
   </project>
-  <project path="manifest" name="santajin/patchrom" revision="jellybean" />
-  <project path="android" name="MiCode/patchrom_android" revision="jellybean" />
-  <project path="miui" name="MiCode/patchrom_miui" revision="jellybean" />
-  <project path="tools" name="MiCode/patchrom_tools" revision="jellybean" />
+  <project path="manifest" name="santajin/patchrom" />
+  <project path="android" name="MiCode/patchrom_android" />
+  <project path="miui" name="MiCode/patchrom_miui" />
+  <project path="tools" name="MiCode/patchrom_tools" />
 </manifest>

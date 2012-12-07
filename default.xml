@@ -12,7 +12,6 @@
     <copyfile src="makefile" dest="Makefile" />
   </project>
   <project path="manifest" name="santajin/patchrom" />
-  <project path="android" name="MiCode/patchrom_android" />
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
   <project path="i9300" name="MiCode/patchrom_i9300" />

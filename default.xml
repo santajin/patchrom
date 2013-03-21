@@ -14,4 +14,5 @@
   <project path="manifest" name="santajin/patchrom" />
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
+  <project path="android" name="MiCode/patchrom_android" />
 </manifest>

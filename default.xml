@@ -15,4 +15,5 @@
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
   <project path="android" name="MiCode/patchrom_android" />
+  <project path="i9100_off" name="MiCode/patchrom_i9100" />
 </manifest>
